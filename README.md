@@ -1,3 +1,20 @@
+# Spotify playlist builder
+
+Uses spotify dev api to allow users to link and build a playlist then save it to their spotify playlists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
